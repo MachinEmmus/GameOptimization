@@ -1,0 +1,4 @@
+-USEALLAVAILABLECORES -NOSPLASH -PREFERREDPROCESSOR 8 -NOTEXTURESTREAMING
+change "preferredprocessor "6" to the number of CPU Cores you have
+  Task manager > Performance > CPU (then look bottom right, for "logical processors" this is your number.)
+
